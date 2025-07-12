@@ -3,10 +3,7 @@
 **Project Name**: PAQJP_3 Compression System  
 **Author**: Jurijus Pacalovas  
 **Role**: Lead Developer  
-**Technologies**: Python, Compression Algorithms (PAQ, zlib, Huffman), File I/O, Datetime Encoding, Logging, Object-Oriented Programming  
-**Date**: July 2025  
-**GitHub Repository**: [Insert GitHub link if applicable]  
-**License**: [Specify license, e.g., MIT, if applicable]  
+**Technologies**: Python, Compression Algorithms (PAQ, zlib, Huffman), File I/O, Datetime Encoding, Logging, Object-Oriented Programming   
 
 ## Overview
 The **PAQJP_3 Compression System** is a sophisticated, custom-built file compression and decompression tool that integrates multiple compression algorithms (PAQ, zlib, and Huffman coding) with advanced data transformation techniques. Designed to optimize file size while preserving data integrity, the system incorporates a unique datetime encoding mechanism to embed metadata and employs modular transformations for enhanced compression efficiency. The project demonstrates expertise in algorithm design, file handling, and robust error management.
