@@ -1,4 +1,6 @@
-**PAQJP_3 Compression System** based on the provided code. The portfolio is designed to showcase the project, its technical details, and your skills as a developer to potential employers, collaborators, or open-source contributors.
+**PAQJP_3 Compression System** 
+
+based on the provided code. The portfolio is designed to showcase the project, its technical details, and your skills as a developer to potential employers, collaborators, or open-source contributors.
 
 ---
 
