@@ -2,7 +2,7 @@
 
 **Project Name**: PAQJP_3 Compression System  
 **Author**: Jurijus Pacalovas  
-**Role**: Lead Developer  
+
 **Technologies**: Python, Compression Algorithms (PAQ, zlib, Huffman), File I/O, Datetime Encoding, Logging, Object-Oriented Programming   
 
 ## Overview
