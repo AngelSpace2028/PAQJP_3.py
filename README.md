@@ -21,4 +21,14 @@ Transform_04 might create arithmetic sequences that PAQ compresses well.
 Transform_05 could align bits for better zlib performance.
 If the file is small, Huffman coding might outperform both.
 
-Squash minus 2**n positive numbers 0-4095 and 24-10 of dates
+1. “Squash minus 2ⁿ positive numbers 0–4095”
+	•	You’re likely working with:
+	•	Positive integers from 0 to 4095 (i.e., 12-bit numbers).
+	•	A transformation involving 2ⁿ subtraction (e.g., subtracting 2¹, 2², …).
+	•	Possibly trying to “squash” or reduce values or entropy.
+
+2. “24–10 of dates”
+	•	This part is unclear. Possible interpretations:
+	•	24–10 might refer to a date range (e.g., 24th October).
+	•	Or maybe bits, positions, or steps in an algorithm.
+	•	You may be applying this only over certain bits (e.g., from bit 10 to bit 24).
